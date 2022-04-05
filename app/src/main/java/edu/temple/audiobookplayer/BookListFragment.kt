@@ -24,7 +24,7 @@ class BookListFragment  : Fragment(), BookListAdapter.ClickedItem {
             return fragmentList;
         }
     }
-    //3
+
     override fun onCreateView(inflater: LayoutInflater,
                               container: ViewGroup?,
                               savedInstanceState: Bundle?): View? {
